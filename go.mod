@@ -1,0 +1,1 @@
+module "github.com/strol1993/personalApi.git"
